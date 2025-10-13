@@ -1,4 +1,4 @@
-                                                                          🍦 IceCream Web App
+                                                            🍦 IceCream Web App
                                                                           
 A full-stack ice cream shop web application with a React + Tailwind + TypeScript frontend and a Node.js + Express backend.
 The app includes both a customer-facing website and a powerful admin panel — allowing admins to manage everything including orders, payments, products, and users, all from a secure dashboard.
