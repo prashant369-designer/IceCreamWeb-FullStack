@@ -1,0 +1,39 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari, and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+      display: none;
+  }
+}
+
+.element-to-hide-scrollbar {
+  overflow: hidden;
+}
+
+.element-to-hide-scrollbar {
+  overflow-y: hidden;
+}
+
+.element-to-hide-scrollbar {
+  overflow-x: hidden;
+}
+
+@font-face {
+    font-family:LoveYou;
+    src: url(Tirelessly\ Love\ You.ttf);
+}
+@font-face {
+    font-family:LoveYou1;
+    src: url(../../Caprasimo-Regular.ttf);
+}
+@font-face {
+    font-family:LoveYou2;
+    src: url(../../Roboto-Italic-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family:LoveYou3;
+    src: url(../../Sevillana-Regular.ttf);
+}
