@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AdminImage from "../../images/AdminImage.jpeg";
 import { Link, useNavigate } from "react-router-dom";
 import { LogOut } from "lucide-react";
-import Logo from "../../images/logo-primary.svg";
+import Logo from "../../images/Metapos_logo-removebg-preview.png";
 
 function Navbar() {
   const navigate = useNavigate();
@@ -17,10 +17,10 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-white shadow-md py-3 px-6 top-0 z-50">
+    <nav className="bg-white shadow-md py-1 px-6 top-0 z-50">
       <div className="container mx-auto flex items-center justify-between ">
         <div className="flex items-center cursor-pointer">
-          <img src={Logo} alt="Logo" className="h-12 w-auto" />
+          <img src={Logo} alt="Logo" className="h-12 w-auto object-fill" />
           
         </div>
 
