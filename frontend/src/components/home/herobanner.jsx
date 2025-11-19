@@ -8,12 +8,6 @@ import leftBerry from "../../images/leftberry.png";
 import rightLeaf from "../../images/rightleaf.png";
 import ScrollReveal from "../common/duration";
 
-// import iceRight2 from "../../images/rev_home2_08.png";
-// import centerLeft2 from "../../images/rev_home2_03.png";
-// import centerRight2 from "../../images/rev_home2_04.png";
-// import leftBerry2 from "../../images/rev_home2_07.png";
-// import rightLeaf2 from "../../images/rev_home2_05.png";
-
 const HeroCarousel = () => {
   return (
     <main>

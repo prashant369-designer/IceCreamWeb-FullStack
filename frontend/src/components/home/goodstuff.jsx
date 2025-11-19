@@ -1,10 +1,10 @@
 import React from "react";
 import { Sparkle, PhoneOutgoing, ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
-import GoodStuff1 from "../../images/goodstuff_1.png"; // red icecream
-import GoodStuff2 from "../../images/goodstuff_2.png"; // chocolate icecream
-import GoodStuff3 from "../../images/goodstuff_3.png"; // scoop caramel
-import GoodStuff4 from "../../images/goodstuff_4.png"; // grapefruit
+import GoodStuff1 from "../../images/goodstuff_1.png"; 
+import GoodStuff2 from "../../images/goodstuff_2.png"; 
+import GoodStuff3 from "../../images/goodstuff_3.png";
+import GoodStuff4 from "../../images/goodstuff_4.png"; 
 import ScrollImage from "../../images/scroll image.png";
 import ScrollReveal from "../common/duration";
 
